@@ -1,6 +1,5 @@
 .git
 **/.git
-**/vite.config.js
 **/.vscode
 **/package-lock.json
 **/node_modules
